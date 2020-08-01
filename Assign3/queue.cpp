@@ -1,4 +1,4 @@
-/*statment */
+/*statment create queue as adt using linked list */
 #include<iostream>
 using namespace std; 
 
